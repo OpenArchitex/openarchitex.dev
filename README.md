@@ -1,10 +1,13 @@
-# Minimal Portfolio
+<p align="center">
+  <a href="https://www.openarchitex.dev">
+    <img alt="OpenArchitex" src="https://raw.githubusercontent.com/OpenArchitex/gatsby-themes/master/examples/minimal-portfolio/src/images/favicon.png?token=AC64D7JLZIJ5G7APLEOKWJ27BDS4S" width="80" />
+  </a>
+</p>
+<h1 align="center">
+  Gatsby Themes by OpenArchitex
+</h1>
 
-This is an example portfolio created with [@openarchitex/gatsby-theme-minimal-portfolio](https://github.com/OpenArchitex/gatsby-themes/tree/master/themes/gatsby-theme-minimal-portfolio).
+This repo is home to our website. This uses the [Minimal Portfolio starter](https://github.com/OpenArchitex/gatsby-starter-minimal-portfolio).
 
-You can use [theme shadowing](https://www.gatsbyjs.org/docs/themes/shadowing/) to override the sections in the theme. 
-All the files relevant to the theme should go under `@opanarchitex/gatsby-theme-minimal-portfolio`. 
-For example the `banner.mdx` and `logo.svg` is overridden as an example. 
-
-If you have any questions, issues or enhancements to this starter feel free to open an 
-[issue at the gatsby-themes repo](https://github.com/OpenArchitex/gatsby-themes/issues).
+If you have any questions, issues or enhancements feel free to open an 
+[issue at the gatsby-themes repo](https://github.com/SudharakaP/openarchitex.dev/issues).
