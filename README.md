@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Themes by OpenArchitex
+  OpenArchitex
 </h1>
 
 This repo is home to our website. This uses the [Minimal Portfolio starter](https://github.com/OpenArchitex/gatsby-starter-minimal-portfolio).
