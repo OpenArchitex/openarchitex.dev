@@ -10,4 +10,4 @@
 This repo is home to our website. This uses the [Minimal Portfolio starter](https://github.com/OpenArchitex/gatsby-starter-minimal-portfolio).
 
 If you have any questions, issues or enhancements feel free to open an 
-[issue at the gatsby-themes repo](https://github.com/SudharakaP/openarchitex.dev/issues).
+[issue](https://github.com/OpenArchitex/openarchitex.dev/issues/new).
