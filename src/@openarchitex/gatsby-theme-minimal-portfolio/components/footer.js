@@ -11,7 +11,7 @@ const Footer = () => (
                     <div className="mx-auto">
                         <ListGroup horizontal>
                             <ListGroup.Item className="border-0"><a aria-label="facebook" style={{color: "inherit"}} href="https://www.facebook.com/OpenArchitex-588167811850853/" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faFacebook} size="2x"/></a></ListGroup.Item>
-                            <ListGroup.Item className="border-0"><a aria-label="instagram" style={{color: "inherit"}} href="https://www.linkedin.com/company/openarchitex/" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin} size="2x"/></a></ListGroup.Item>
+                            <ListGroup.Item className="border-0"><a aria-label="linkedin" style={{color: "inherit"}} href="https://www.linkedin.com/company/openarchitex/" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin} size="2x"/></a></ListGroup.Item>
                         </ListGroup>
                     </div>
                 </div>
